@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "The Mop Theory Manifesto™: A Framework for Backend-First Development"
+authors:
+  - family-names: Vasquez
+    given-names: Alexis M
+    orcid: 0009-0003-8879-262X
+date-released: 2025-05-28
+version: 0.1.0
+license: CC-BY-NC-4.0
+repository-code: https://github.com/alexisvassquez/mop-theory
+url: https://github.com/alexisvassquez/mop-theory
