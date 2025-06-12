@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.3.0
 message: "If you use this work, please cite it using the metadata below."
 title: "The Mop Theory Manifesto™: A Framework for Backend-First Development"
 authors:
@@ -6,7 +6,17 @@ authors:
     given-names: Alexis M
     orcid: 0009-0003-8879-262X
 date-released: 2025-05-28
-version: 0.1.0
+version: 1.3.0
 license: CC-BY-NC-4.0
 repository-code: https://github.com/alexisvassquez/mop-theory
 url: https://github.com/alexisvassquez/mop-theory
+preferred-citation:
+  type: article
+  title: "MVP Culture Kills Big Ideas—And What We Can Build Instead"
+  authors:
+    - family-names: Vasquez
+      given-names: Alexis M
+      orcid: 0009-0003-8879-262X
+  date-published: 2025-06-11
+  url: https://open.substack.com/pub/wholesomedegenerate/p/issue-6-mvp-culture-kills-big-ideas
+  publisher: Out Of Line by Alexis M. Vasquez
